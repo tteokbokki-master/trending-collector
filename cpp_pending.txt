@@ -1,0 +1,12 @@
+https://github.com/carla-simulator/carla
+https://github.com/firebase/firebase-ios-sdk
+https://github.com/gabrielsoule/resonarium
+https://github.com/facebook/react-native
+https://github.com/chriskohlhoff/asio
+https://github.com/tenstorrent/tt-metal
+https://github.com/godotengine/godot
+https://github.com/qinguoyi/TinyWebServer
+https://github.com/NVIDIA/TensorRT
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+https://github.com/MariaDB/server
+https://github.com/google/nsjail

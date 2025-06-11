@@ -1,0 +1,17 @@
+https://github.com/open-quantum-safe/liboqs
+https://github.com/eclipse-mosquitto/mosquitto
+https://github.com/swaywm/sway
+https://github.com/guanzhi/GmSSL
+https://github.com/openssl/openssl
+https://github.com/cesanta/mongoose
+https://github.com/zephyrproject-rtos/zephyr
+https://github.com/OpenVPN/openvpn
+https://github.com/espressif/esp-sr
+https://github.com/util-linux/util-linux
+https://github.com/Genymobile/scrcpy
+https://github.com/mattn/go-sqlite3
+https://github.com/apache/nuttx
+https://github.com/sonic-net/sonic-buildimage
+https://github.com/AFLplusplus/AFLplusplus
+https://github.com/xiph/opus
+https://github.com/Tencent/wcdb
