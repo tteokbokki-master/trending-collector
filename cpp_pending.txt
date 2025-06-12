@@ -24,3 +24,12 @@ https://github.com/ethz-asl/kalibr
 https://github.com/Tencent/rapidjson
 https://github.com/google/re2
 https://github.com/cameron314/concurrentqueue
+https://github.com/openxla/xla
+https://github.com/OSGeo/gdal
+https://github.com/alibaba/MNN
+https://github.com/facebook/rocksdb
+https://github.com/catchorg/Catch2
+https://github.com/endless-sky/endless-sky
+https://github.com/fmtlib/fmt
+https://github.com/nlohmann/json
+https://github.com/microsoft/onnxruntime

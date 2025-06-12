@@ -1,0 +1,5 @@
+https://github.com/hathach/tinyusb
+https://github.com/curl/curl
+https://github.com/wazuh/wazuh
+https://github.com/EpicGamesExt/raddebugger
+https://github.com/tmux/tmux
