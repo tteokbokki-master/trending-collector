@@ -97,3 +97,9 @@ https://github.com/dunst-project/dunst
 https://github.com/confluentinc/librdkafka
 https://github.com/cloudwu/skynet
 https://github.com/nrfconnect/sdk-nrf
+https://github.com/hathach/tinyusb
+https://github.com/curl/curl
+https://github.com/wazuh/wazuh
+https://github.com/EpicGamesExt/raddebugger
+https://github.com/tmux/tmux
+https://github.com/PostHog/DeskHog
