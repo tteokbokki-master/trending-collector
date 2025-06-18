@@ -113,3 +113,10 @@ https://github.com/reactos/reactos
 https://github.com/fluent/fluent-bit
 https://github.com/facebook/zstd
 https://github.com/tianocore/edk2
+https://github.com/microsoft/mimalloc
+https://github.com/DarkFlippers/unleashed-firmware
+https://github.com/git/git
+https://github.com/jqlang/jq
+https://github.com/lz4/lz4
+https://github.com/yugabyte/yugabyte-db
+https://github.com/php/php-src

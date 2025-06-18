@@ -1,8 +1,0 @@
-https://github.com/microsoft/mimalloc
-https://github.com/DarkFlippers/unleashed-firmware
-https://github.com/git/git
-https://github.com/DaveGamble/cJSON
-https://github.com/jqlang/jq
-https://github.com/lz4/lz4
-https://github.com/yugabyte/yugabyte-db
-https://github.com/php/php-src
