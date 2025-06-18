@@ -1,0 +1,5 @@
+https://github.com/CrowCpp/Crow
+https://github.com/zen-browser/desktop
+https://github.com/FreeCAD/FreeCAD
+https://github.com/pytorch/FBGEMM
+https://github.com/notepad-plus-plus/notepad-plus-plus
