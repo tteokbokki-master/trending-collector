@@ -103,3 +103,13 @@ https://github.com/wazuh/wazuh
 https://github.com/EpicGamesExt/raddebugger
 https://github.com/tmux/tmux
 https://github.com/PostHog/DeskHog
+https://github.com/espressif/esp-brookesia
+https://github.com/FreeRDP/FreeRDP
+https://github.com/raspberrypi/linux
+https://github.com/tursodatabase/libsql
+https://github.com/NVIDIA/open-gpu-kernel-modules
+https://github.com/cosmos72/twin
+https://github.com/reactos/reactos
+https://github.com/fluent/fluent-bit
+https://github.com/facebook/zstd
+https://github.com/tianocore/edk2
