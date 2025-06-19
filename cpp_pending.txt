@@ -1,0 +1,8 @@
+https://github.com/dail8859/NotepadNext
+https://github.com/cocos/cocos-engine
+https://github.com/google-ai-edge/mediapipe
+https://github.com/wolfpld/tracy
+https://github.com/arangodb/arangodb
+https://github.com/mitsuba-renderer/mitsuba3
+https://github.com/o3de/o3de
+https://github.com/stereolabs/zed-ros2-wrapper
