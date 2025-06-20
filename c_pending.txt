@@ -7,3 +7,9 @@ https://github.com/raspberrypi/pico-sdk
 https://github.com/systemd/systemd
 https://github.com/haproxy/haproxy
 https://github.com/nrfconnect/sdk-zephyr
+https://github.com/open5gs/open5gs
+https://github.com/bytecodealliance/wasm-micro-runtime
+https://github.com/AOMediaCodec/libavif
+https://github.com/TEN-framework/ten-framework
+https://github.com/RfidResearchGroup/proxmark3
+https://github.com/libbpf/libbpf

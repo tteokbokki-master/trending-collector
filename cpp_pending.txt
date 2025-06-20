@@ -6,3 +6,10 @@ https://github.com/arangodb/arangodb
 https://github.com/mitsuba-renderer/mitsuba3
 https://github.com/o3de/o3de
 https://github.com/stereolabs/zed-ros2-wrapper
+https://github.com/CleverRaven/Cataclysm-DDA
+https://github.com/uxlfoundation/oneTBB
+https://github.com/tnodir/fort
+https://github.com/PX4/PX4-Autopilot
+https://github.com/lynx-family/lynx
+https://github.com/v8/v8
+https://github.com/ceph/ceph
