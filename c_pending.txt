@@ -13,3 +13,8 @@ https://github.com/AOMediaCodec/libavif
 https://github.com/TEN-framework/ten-framework
 https://github.com/RfidResearchGroup/proxmark3
 https://github.com/libbpf/libbpf
+https://github.com/xemu-project/xemu
+https://github.com/CTCaer/hekate
+https://github.com/open-quantum-safe/oqs-provider
+https://github.com/kokke/tiny-AES-c
+https://github.com/veracrypt/VeraCrypt
