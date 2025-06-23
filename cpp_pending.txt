@@ -1,9 +1,0 @@
-https://github.com/qbittorrent/qBittorrent
-https://github.com/isledecomp/isle
-https://github.com/Maplespe/DWMBlurGlass
-https://github.com/official-stockfish/Stockfish
-https://github.com/odygrd/quill
-https://github.com/dolphin-emu/dolphin
-https://github.com/juce-framework/JUCE
-https://github.com/SoftFever/OrcaSlicer
-https://github.com/justcallmekoko/ESP32Marauder

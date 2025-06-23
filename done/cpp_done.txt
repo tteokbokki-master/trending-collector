@@ -148,3 +148,12 @@ https://github.com/CoatiSoftware/Sourcetrail
 https://github.com/doitsujin/dxvk
 https://github.com/EsotericSoftware/spine-runtimes
 https://github.com/v8/v8
+https://github.com/qbittorrent/qBittorrent
+https://github.com/isledecomp/isle
+https://github.com/Maplespe/DWMBlurGlass
+https://github.com/official-stockfish/Stockfish
+https://github.com/odygrd/quill
+https://github.com/dolphin-emu/dolphin
+https://github.com/juce-framework/JUCE
+https://github.com/SoftFever/OrcaSlicer
+https://github.com/justcallmekoko/ESP32Marauder

@@ -140,3 +140,13 @@ https://github.com/xemu-project/xemu
 https://github.com/kokke/tiny-AES-c
 https://github.com/CTCaer/hekate
 https://github.com/open-quantum-safe/oqs-provider
+https://github.com/micropython/micropython
+https://github.com/coolsnowwolf/lede
+https://github.com/darktable-org/darktable
+https://github.com/fastfetch-cli/fastfetch
+https://github.com/brunodev85/winlator
+https://github.com/mgba-emu/mgba
+https://github.com/qmk/qmk_firmware
+https://github.com/iNavFlight/inav
+https://github.com/ExistentialAudio/BlackHole
+https://github.com/oxters168/Pluvia
