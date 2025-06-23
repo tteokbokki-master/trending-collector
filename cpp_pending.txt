@@ -1,0 +1,9 @@
+https://github.com/isledecomp/isle-portable
+https://github.com/dragonflydb/dragonfly
+https://github.com/RPCS3/rpcs3
+https://github.com/ExpressLRS/ExpressLRS
+https://github.com/TrinityCore/TrinityCore
+https://github.com/ValveSoftware/Proton
+https://github.com/azerothcore/azerothcore-wotlk
+https://github.com/badaix/snapcast
+https://github.com/microsoft/calculator
