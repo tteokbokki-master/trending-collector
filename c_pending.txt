@@ -3,3 +3,10 @@ https://github.com/pymumu/smartdns
 https://github.com/jniebuhr/gaggimate
 https://github.com/hufrea/byedpi
 https://github.com/hengyoush/kyanos
+https://github.com/HarbourMasters/Shipwright
+https://github.com/HarbourMasters/Starship
+https://github.com/n64decomp/mk64
+https://github.com/HarbourMasters/2ship2harkinian
+https://github.com/Xilinx/linux-xlnx
+https://github.com/solosky/pixl.js
+https://github.com/agherzan/meta-raspberrypi
