@@ -10,3 +10,11 @@ https://github.com/HarbourMasters/2ship2harkinian
 https://github.com/Xilinx/linux-xlnx
 https://github.com/solosky/pixl.js
 https://github.com/agherzan/meta-raspberrypi
+https://github.com/freebsd/freebsd-src
+https://github.com/DPDK/dpdk
+https://github.com/open-telemetry/opentelemetry-go-instrumentation
+https://github.com/open62541/open62541
+https://github.com/analogdevicesinc/linux
+https://github.com/rvaiya/keyd
+https://github.com/microsoft/msquic
+https://github.com/madler/zlib

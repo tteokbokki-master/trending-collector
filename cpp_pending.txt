@@ -16,3 +16,11 @@ https://github.com/electron/electron
 https://github.com/UZ-SLAMLab/ORB_SLAM3
 https://github.com/apache/thrift
 https://github.com/iree-org/iree
+https://github.com/MrNeRF/gaussian-splatting-cuda
+https://github.com/PaddlePaddle/Paddle
+https://github.com/deskflow/deskflow
+https://github.com/jbeder/yaml-cpp
+https://github.com/openvinotoolkit/openvino
+https://github.com/google/filament
+https://github.com/Livox-SDK/livox_ros_driver2
+https://github.com/airockchip/rknn-llm
