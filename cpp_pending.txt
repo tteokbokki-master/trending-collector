@@ -1,0 +1,9 @@
+https://github.com/microsoft/terminal
+https://github.com/mozilla/DeepSpeech
+https://github.com/taskflow/taskflow
+https://github.com/TixiaoShan/LIO-SAM
+https://github.com/microsoft/winget-cli
+https://github.com/mongodb/mongo
+https://github.com/google/skia
+https://github.com/MarlinFirmware/Marlin
+https://github.com/scylladb/scylladb
