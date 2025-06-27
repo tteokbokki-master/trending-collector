@@ -2,3 +2,8 @@ https://github.com/nginx/nginx
 https://github.com/analogdevicesinc/no-OS
 https://github.com/esnet/iperf
 https://github.com/rxi/microui
+https://github.com/Cyan4973/xxHash
+https://github.com/SanderMertens/flecs
+https://github.com/TheAlgorithms/C
+https://github.com/Safe3/uuWAF
+https://github.com/pr3y/Bruce
