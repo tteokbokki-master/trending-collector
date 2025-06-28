@@ -7,3 +7,7 @@ https://github.com/SanderMertens/flecs
 https://github.com/TheAlgorithms/C
 https://github.com/Safe3/uuWAF
 https://github.com/pr3y/Bruce
+https://github.com/gentilkiwi/mimikatz
+https://github.com/civetweb/civetweb
+https://github.com/microsoft/Windows-driver-samples
+https://github.com/c3lang/c3c
