@@ -168,3 +168,16 @@ https://github.com/Xilinx/linux-xlnx
 https://github.com/agherzan/meta-raspberrypi
 https://github.com/HarbourMasters/2ship2harkinian
 https://github.com/open-telemetry/opentelemetry-go-instrumentation
+https://github.com/nginx/nginx
+https://github.com/analogdevicesinc/no-OS
+https://github.com/esnet/iperf
+https://github.com/rxi/microui
+https://github.com/Cyan4973/xxHash
+https://github.com/SanderMertens/flecs
+https://github.com/TheAlgorithms/C
+https://github.com/Safe3/uuWAF
+https://github.com/pr3y/Bruce
+https://github.com/gentilkiwi/mimikatz
+https://github.com/civetweb/civetweb
+https://github.com/microsoft/Windows-driver-samples
+https://github.com/c3lang/c3c
