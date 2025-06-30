@@ -8,3 +8,7 @@ https://github.com/AlexandreRouma/SDRPlusPlus
 https://github.com/xenia-project/xenia
 https://github.com/Mahdi-zarei/nekoray
 https://github.com/shadps4-emu/shadPS4
+https://github.com/espressif/arduino-esp32
+https://github.com/k4yt3x/video2x
+https://github.com/nextcloud/desktop
+https://github.com/snake-4/Zygisk-Assistant
