@@ -181,3 +181,6 @@ https://github.com/gentilkiwi/mimikatz
 https://github.com/civetweb/civetweb
 https://github.com/microsoft/Windows-driver-samples
 https://github.com/c3lang/c3c
+https://github.com/aleksey-hoffman/sigma-file-manager
+https://github.com/EdgeTX/edgetx
+https://github.com/betaflight/betaflight

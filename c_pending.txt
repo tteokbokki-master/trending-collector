@@ -4,7 +4,6 @@ https://github.com/mit-pdos/xv6-public
 https://github.com/dayanch96/YTMusicUltimate
 https://github.com/TechUnRestricted/WinDiskWriter
 https://github.com/screetsec/TheFatRat
-https://github.com/betaflight/betaflight
-https://github.com/EdgeTX/edgetx
 https://github.com/nmap/nmap
 https://github.com/aleksey-hoffman/sigma-file-manager
+https://github.com/betaflight/betaflight
