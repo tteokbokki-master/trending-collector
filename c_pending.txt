@@ -1,0 +1,5 @@
+https://github.com/FreeRTOS/FreeRTOS
+https://github.com/tporadowski/redis
+https://github.com/GEIGEIGEIST/TOTEM
+https://github.com/revk/ESP32-Faikin
+https://github.com/espressif/esp32-camera

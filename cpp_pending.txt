@@ -22,3 +22,11 @@ https://github.com/YosysHQ/yosys
 https://github.com/jgromes/RadioLib
 https://github.com/google/sentencepiece
 https://github.com/NVlabs/tiny-cuda-nn
+https://github.com/LadybirdBrowser/ladybird
+https://github.com/x64dbg/x64dbg
+https://github.com/PaddlePaddle/FastDeploy
+https://github.com/NVIDIA/nccl
+https://github.com/unitreerobotics/unitree_sdk2
+https://github.com/cloudflare/workerd
+https://github.com/ggml-org/ggml
+https://github.com/colmap/colmap
