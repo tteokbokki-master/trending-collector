@@ -30,3 +30,8 @@ https://github.com/unitreerobotics/unitree_sdk2
 https://github.com/cloudflare/workerd
 https://github.com/ggml-org/ggml
 https://github.com/colmap/colmap
+https://github.com/google/perfetto
+https://github.com/bytedance/btrace
+https://github.com/topling/toplingdb
+https://github.com/tensorflow/tensorflow
+https://github.com/carbon-language/carbon-lang
