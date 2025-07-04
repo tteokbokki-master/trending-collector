@@ -191,3 +191,12 @@ https://github.com/dayanch96/YTMusicUltimate
 https://github.com/mit-pdos/xv6-public
 https://github.com/henrypp/simplewall
 https://github.com/mackron/miniaudio
+https://github.com/FreeRTOS/FreeRTOS
+https://github.com/tporadowski/redis
+https://github.com/GEIGEIGEIST/TOTEM
+https://github.com/revk/ESP32-Faikin
+https://github.com/espressif/esp32-camera
+https://github.com/jemalloc/jemalloc
+https://github.com/openwall/john
+https://github.com/sqlcipher/sqlcipher
+https://github.com/sonic-net/sonic-buildimage
