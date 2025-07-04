@@ -35,3 +35,9 @@ https://github.com/bytedance/btrace
 https://github.com/topling/toplingdb
 https://github.com/tensorflow/tensorflow
 https://github.com/carbon-language/carbon-lang
+https://github.com/tesseract-ocr/tesseract
+https://github.com/epezent/implot
+https://github.com/moveit/moveit2
+https://github.com/namazso/OpenHashTab
+https://github.com/opencv/opencv_contrib
+https://github.com/IntelRealSense/librealsense

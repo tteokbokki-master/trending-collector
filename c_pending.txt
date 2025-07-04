@@ -1,0 +1,4 @@
+https://github.com/libarchive/libarchive
+https://github.com/FelixKratz/SketchyBar
+https://github.com/BasedHardware/omi
+https://github.com/axboe/fio
