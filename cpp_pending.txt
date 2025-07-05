@@ -41,3 +41,8 @@ https://github.com/moveit/moveit2
 https://github.com/namazso/OpenHashTab
 https://github.com/opencv/opencv_contrib
 https://github.com/IntelRealSense/librealsense
+https://github.com/NickvisionApps/Parabolic
+https://github.com/monero-project/monero
+https://github.com/veyon/veyon
+https://github.com/duixcom/Duix.mobile
+https://github.com/Mozilla-Ocho/llamafile

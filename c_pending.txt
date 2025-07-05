@@ -2,3 +2,8 @@ https://github.com/libarchive/libarchive
 https://github.com/FelixKratz/SketchyBar
 https://github.com/BasedHardware/omi
 https://github.com/axboe/fio
+https://github.com/hashcat/hashcat
+https://github.com/libevent/libevent
+https://github.com/riscv-collab/riscv-gnu-toolchain
+https://github.com/rswier/c4
+https://github.com/Encryqed/Dumper-7
