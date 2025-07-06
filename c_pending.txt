@@ -1,0 +1,5 @@
+https://github.com/ventoy/Ventoy
+https://github.com/dev-Ali2008/xanite
+https://github.com/moonlight-stream/moonlight-android
+https://github.com/merbanan/rtl_433
+https://github.com/termux/termux-x11

@@ -35,3 +35,8 @@ https://github.com/monero-project/monero
 https://github.com/veyon/veyon
 https://github.com/duixcom/Duix.mobile
 https://github.com/Mozilla-Ocho/llamafile
+https://github.com/Alex313031/thorium
+https://github.com/zhongyang219/TrafficMonitor
+https://github.com/NVIDIA-Omniverse/PhysX
+https://github.com/ton-blockchain/ton
+https://github.com/moonlight-stream/moonlight-qt
