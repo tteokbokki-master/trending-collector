@@ -200,3 +200,12 @@ https://github.com/jemalloc/jemalloc
 https://github.com/openwall/john
 https://github.com/sqlcipher/sqlcipher
 https://github.com/sonic-net/sonic-buildimage
+https://github.com/rswier/c4
+https://github.com/Encryqed/Dumper-7
+https://github.com/libevent/libevent
+https://github.com/hashcat/hashcat
+https://github.com/axboe/fio
+https://github.com/BasedHardware/omi
+https://github.com/FelixKratz/SketchyBar
+https://github.com/riscv-collab/riscv-gnu-toolchain
+https://github.com/libarchive/libarchive
