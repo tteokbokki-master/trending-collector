@@ -3,3 +3,9 @@ https://github.com/dev-Ali2008/xanite
 https://github.com/moonlight-stream/moonlight-android
 https://github.com/merbanan/rtl_433
 https://github.com/termux/termux-x11
+https://github.com/ripplebiz/MeshCore
+https://github.com/manaskamal/XenevaOS
+https://github.com/pret/pokeemerald
+https://github.com/capstone-engine/capstone
+https://github.com/mcmilk/7-Zip-zstd
+https://github.com/pawelsalawa/sqlitestudio

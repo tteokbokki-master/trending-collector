@@ -40,3 +40,6 @@ https://github.com/zhongyang219/TrafficMonitor
 https://github.com/NVIDIA-Omniverse/PhysX
 https://github.com/ton-blockchain/ton
 https://github.com/moonlight-stream/moonlight-qt
+https://github.com/HIllya51/LunaTranslator
+https://github.com/LeagueToolkit/cslol-manager
+https://github.com/nomacs/nomacs
