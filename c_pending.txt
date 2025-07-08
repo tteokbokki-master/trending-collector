@@ -9,3 +9,6 @@ https://github.com/pret/pokeemerald
 https://github.com/capstone-engine/capstone
 https://github.com/mcmilk/7-Zip-zstd
 https://github.com/pawelsalawa/sqlitestudio
+https://github.com/geany/geany
+https://github.com/ufrisk/MemProcFS
+https://github.com/eunomia-bpf/bpf-developer-tutorial
