@@ -46,3 +46,5 @@ https://github.com/nomacs/nomacs
 https://github.com/hku-mars/FAST_LIO
 https://github.com/grpc/grpc
 https://github.com/xfangfang/wiliwili
+https://github.com/kasmtech/KasmVNC
+https://github.com/Neargye/magic_enum
