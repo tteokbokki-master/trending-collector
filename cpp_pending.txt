@@ -1,15 +1,3 @@
-
-https://github.com/nextcloud/desktop
-https://github.com/snake-4/Zygisk-Assistant
-https://github.com/zeux/meshoptimizer
-https://github.com/MaaXYZ/MaaFramework
-https://github.com/huihut/interview
-https://github.com/Zackriya-Solutions/meeting-minutes
-https://github.com/trustwallet/wallet-core
-https://github.com/Tencent/ncnn
-https://github.com/YosysHQ/yosys
-https://github.com/jgromes/RadioLib
-https://github.com/google/sentencepiece
 https://github.com/NVlabs/tiny-cuda-nn
 https://github.com/LadybirdBrowser/ladybird
 https://github.com/x64dbg/x64dbg
