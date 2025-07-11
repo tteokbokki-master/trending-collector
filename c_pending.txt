@@ -5,3 +5,5 @@ https://github.com/VirusTotal/yara
 https://github.com/axboe/liburing
 https://github.com/cilium/tetragon
 https://github.com/am32-firmware/AM32
+https://github.com/Cisco-Talos/clamav
+https://github.com/PufferAI/PufferLib

@@ -37,3 +37,7 @@ https://github.com/xfangfang/wiliwili
 https://github.com/kasmtech/KasmVNC
 https://github.com/Neargye/magic_enumhttps://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
 https://github.com/f3d-app/f3d
+https://github.com/google-ai-edge/LiteRT
+https://github.com/lraton/FlopperZiro
+https://github.com/NVIDIA-RTX/NVRHI
+https://github.com/microsoft/calculator
