@@ -41,3 +41,7 @@ https://github.com/google-ai-edge/LiteRT
 https://github.com/lraton/FlopperZiro
 https://github.com/NVIDIA-RTX/NVRHI
 https://github.com/microsoft/calculator
+https://github.com/google/leveldb
+https://github.com/chromium/chromium
+https://github.com/open-telemetry/opentelemetry-cpp
+https://github.com/CLIUtils/CLI11

@@ -1,0 +1,7 @@
+https://github.com/spdk/spdk
+https://github.com/arendst/Tasmota
+https://github.com/riscv-software-src/riscv-isa-sim
+https://github.com/NVIDIA/cuda-samples
+https://github.com/vanhauser-thc/thc-hydra
+https://github.com/bellard/quickjs
+https://github.com/Crypto-toolbox/HFT-Orderbook
