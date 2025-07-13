@@ -5,3 +5,5 @@ https://github.com/NVIDIA/cuda-samples
 https://github.com/vanhauser-thc/thc-hydra
 https://github.com/bellard/quickjs
 https://github.com/Crypto-toolbox/HFT-Orderbook
+https://github.com/AdAway/AdAway
+https://github.com/microsoft/documentdb

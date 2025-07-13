@@ -45,3 +45,9 @@ https://github.com/google/leveldb
 https://github.com/chromium/chromium
 https://github.com/open-telemetry/opentelemetry-cpp
 https://github.com/CLIUtils/CLI11
+https://github.com/Floorp-Projects/Floorp
+https://github.com/musescore/MuseScore
+https://github.com/ClassicOldSong/Apollo
+https://github.com/libcpr/cpr
+https://github.com/sipeed/NanoKVM
+https://github.com/jank-lang/jank
