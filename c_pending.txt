@@ -7,3 +7,4 @@ https://github.com/Bodmer/TFT_eSPI
 https://github.com/ffmpegwasm/ffmpeg.wasm
 https://github.com/libusb/libusb
 https://github.com/microsoft/react-native-code-push
+https://github.com/pygame/pygame

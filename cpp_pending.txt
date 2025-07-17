@@ -56,3 +56,5 @@ https://github.com/i-am-shodan/USBArmyKnife
 https://github.com/TigerVNC/tigervnc
 https://github.com/vesoft-inc/nebula
 https://github.com/ossrs/srs
+https://github.com/abseil/abseil-cpp
+https://github.com/ydb-platform/ydb
