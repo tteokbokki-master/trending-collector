@@ -58,3 +58,6 @@ https://github.com/vesoft-inc/nebula
 https://github.com/ossrs/srs
 https://github.com/abseil/abseil-cpp
 https://github.com/ydb-platform/ydb
+https://github.com/SFML/SFML
+https://github.com/stack-of-tasks/pinocchio
+https://github.com/Neargye/magic_enum
