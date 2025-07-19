@@ -61,3 +61,5 @@ https://github.com/ydb-platform/ydb
 https://github.com/SFML/SFML
 https://github.com/stack-of-tasks/pinocchio
 https://github.com/Neargye/magic_enum
+https://github.com/deepseek-ai/DeepGEMM
+https://github.com/ungive/discord-music-presence

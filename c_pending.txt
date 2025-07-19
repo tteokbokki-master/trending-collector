@@ -8,3 +8,5 @@ https://github.com/ffmpegwasm/ffmpeg.wasm
 https://github.com/libusb/libusb
 https://github.com/microsoft/react-native-code-push
 https://github.com/pygame/pygame
+https://github.com/olikraus/u8g2
+https://github.com/htop-dev/htop
