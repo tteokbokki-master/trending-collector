@@ -63,3 +63,7 @@ https://github.com/stack-of-tasks/pinocchio
 https://github.com/Neargye/magic_enum
 https://github.com/deepseek-ai/DeepGEMM
 https://github.com/ungive/discord-music-presence
+https://github.com/assimp/assimp
+https://github.com/kiwibrowser/src.next
+https://github.com/OpenHUTB/hutb
+https://github.com/LMMS/lmms

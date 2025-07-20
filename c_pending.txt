@@ -10,3 +10,5 @@ https://github.com/microsoft/react-native-code-push
 https://github.com/pygame/pygame
 https://github.com/olikraus/u8g2
 https://github.com/htop-dev/htop
+https://github.com/ValdikSS/GoodbyeDPI
+https://github.com/gnuton/asuswrt-merlin.ng
