@@ -12,3 +12,10 @@ https://github.com/olikraus/u8g2
 https://github.com/htop-dev/htop
 https://github.com/ValdikSS/GoodbyeDPI
 https://github.com/gnuton/asuswrt-merlin.ng
+https://github.com/Zelda64Recomp/Zelda64Recomp
+https://github.com/ProtonVPN/android-app
+https://github.com/bitcoin-core/secp256k1
+https://github.com/86Box/86Box
+https://github.com/aircrack-ng/aircrack-ng
+https://github.com/TASEmulators/desmume
+https://github.com/henrypp/memreduct

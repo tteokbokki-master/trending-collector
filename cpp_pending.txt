@@ -67,3 +67,5 @@ https://github.com/assimp/assimp
 https://github.com/kiwibrowser/src.next
 https://github.com/OpenHUTB/hutb
 https://github.com/LMMS/lmms
+https://github.com/hyprwm/hyprland-plugins
+https://github.com/openscad/openscad
