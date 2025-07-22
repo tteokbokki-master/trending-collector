@@ -69,3 +69,8 @@ https://github.com/OpenHUTB/hutb
 https://github.com/LMMS/lmms
 https://github.com/hyprwm/hyprland-plugins
 https://github.com/openscad/openscad
+https://github.com/microsoft/microsoft-ui-xaml
+https://github.com/PixarAnimationStudios/OpenUSD
+https://github.com/NixOS/nix
+https://github.com/harfbuzz/harfbuzz
+https://github.com/microsoft/Detours
