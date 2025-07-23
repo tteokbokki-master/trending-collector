@@ -74,3 +74,5 @@ https://github.com/PixarAnimationStudios/OpenUSD
 https://github.com/NixOS/nix
 https://github.com/harfbuzz/harfbuzz
 https://github.com/microsoft/Detours
+https://github.com/open-source-parsers/jsoncpp
+https://github.com/SatDump/SatDump
