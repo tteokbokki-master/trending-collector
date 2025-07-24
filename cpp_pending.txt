@@ -76,3 +76,5 @@ https://github.com/harfbuzz/harfbuzz
 https://github.com/microsoft/Detours
 https://github.com/open-source-parsers/jsoncpp
 https://github.com/SatDump/SatDump
+https://github.com/barry-ran/QtScrcpy
+https://github.com/simdjson/simdjson

@@ -20,3 +20,5 @@ https://github.com/aircrack-ng/aircrack-ng
 https://github.com/TASEmulators/desmume
 https://github.com/henrypp/memreduct
 https://github.com/stephane/libmodbus
+https://github.com/binbyu/Reader
+https://github.com/skeeto/endlessh
