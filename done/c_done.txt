@@ -239,3 +239,17 @@ https://github.com/AdAway/AdAway
 https://github.com/vanhauser-thc/thc-hydra
 https://github.com/bellard/quickjs
 https://github.com/NVIDIA/cuda-samples
+https://github.com/opa334/Dopamine
+https://github.com/citusdata/pg_cron
+https://github.com/libexpat/libexpat
+https://github.com/linux-rdma/rdma-core
+https://github.com/cfenollosa/os-tutorial
+https://github.com/Bodmer/TFT_eSPI
+https://github.com/ffmpegwasm/ffmpeg.wasm
+https://github.com/libusb/libusb
+https://github.com/microsoft/react-native-code-push
+https://github.com/pygame/pygame
+https://github.com/olikraus/u8g2
+https://github.com/htop-dev/htop
+https://github.com/ValdikSS/GoodbyeDPI
+https://github.com/gnuton/asuswrt-merlin.ng
