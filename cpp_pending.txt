@@ -79,3 +79,8 @@ https://github.com/SatDump/SatDump
 https://github.com/barry-ran/QtScrcpy
 https://github.com/simdjson/simdjson
 https://github.com/risc0/risc0
+https://github.com/async-profiler/async-profiler
+https://github.com/facebookincubator/velox
+https://github.com/microsoft/react-native-windows
+https://github.com/nmslib/hnswlib
+https://github.com/root-project/root

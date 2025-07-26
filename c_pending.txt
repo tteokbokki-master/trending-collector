@@ -22,3 +22,7 @@ https://github.com/henrypp/memreduct
 https://github.com/stephane/libmodbus
 https://github.com/binbyu/Reader
 https://github.com/skeeto/endlessh
+https://github.com/lizongying/my-tv
+https://github.com/skywind3000/kcp
+https://github.com/ImageMagick/ImageMagick
+https://github.com/EFeru/hoverboard-firmware-hack-FOC
