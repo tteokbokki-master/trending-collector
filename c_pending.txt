@@ -12,3 +12,6 @@ https://github.com/lizongying/my-tv
 https://github.com/skywind3000/kcp
 https://github.com/ImageMagick/ImageMagick
 https://github.com/EFeru/hoverboard-firmware-hack-FOC
+https://github.com/LongSoft/UEFITool
+https://github.com/meetecho/janus-gateway
+https://github.com/valinet/ExplorerPatcher

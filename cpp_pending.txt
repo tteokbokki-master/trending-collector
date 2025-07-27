@@ -84,3 +84,5 @@ https://github.com/facebookincubator/velox
 https://github.com/microsoft/react-native-windows
 https://github.com/nmslib/hnswlib
 https://github.com/root-project/root
+https://github.com/aria2/aria2
+https://github.com/xournalpp/xournalpp
