@@ -86,3 +86,7 @@ https://github.com/nmslib/hnswlib
 https://github.com/root-project/root
 https://github.com/aria2/aria2
 https://github.com/xournalpp/xournalpp
+https://github.com/facebook/watchman
+https://github.com/OHF-Voice/piper1-gpl
+https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+https://github.com/MatsuriDayo/nekoray

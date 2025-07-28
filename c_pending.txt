@@ -15,3 +15,7 @@ https://github.com/EFeru/hoverboard-firmware-hack-FOC
 https://github.com/LongSoft/UEFITool
 https://github.com/meetecho/janus-gateway
 https://github.com/valinet/ExplorerPatcher
+https://github.com/cellos51/balatro-gba
+https://github.com/sandboxie-plus/Sandboxie
+https://github.com/FeralInteractive/gamemode
+https://github.com/TelegramMessenger/MTProxy
