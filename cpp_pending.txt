@@ -90,3 +90,7 @@ https://github.com/facebook/watchman
 https://github.com/OHF-Voice/piper1-gpl
 https://github.com/AaronFeng753/Waifu2x-Extension-GUI
 https://github.com/MatsuriDayo/nekoray
+https://github.com/google/highway
+https://github.com/owasp-modsecurity/ModSecurity
+https://github.com/Project-OSRM/osrm-backend
+https://github.com/versatica/mediasoup
