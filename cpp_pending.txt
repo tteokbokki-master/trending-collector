@@ -94,3 +94,5 @@ https://github.com/google/highway
 https://github.com/owasp-modsecurity/ModSecurity
 https://github.com/Project-OSRM/osrm-backend
 https://github.com/versatica/mediasoup
+https://github.com/SJTU-IPADS/PowerInfer
+https://github.com/ga2mer/MarathonRecomp

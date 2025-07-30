@@ -23,3 +23,9 @@ https://github.com/system-linux/FazJammer
 https://github.com/openvenues/libpostal
 https://github.com/RamonUnch/AltSnap
 https://github.com/strongswan/strongswan
+https://github.com/warmcat/libwebsockets
+https://github.com/stm32duino/Arduino_Core_STM32
+https://github.com/karpathy/llama2.c
+https://github.com/tvheadend/tvheadend
+https://github.com/floooh/sokol
+https://github.com/openssh/openssh-portable
