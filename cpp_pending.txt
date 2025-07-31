@@ -96,3 +96,5 @@ https://github.com/Project-OSRM/osrm-backend
 https://github.com/versatica/mediasoup
 https://github.com/SJTU-IPADS/PowerInfer
 https://github.com/ga2mer/MarathonRecomp
+https://github.com/M2Team/NanaZip
+https://github.com/danmar/cppcheck

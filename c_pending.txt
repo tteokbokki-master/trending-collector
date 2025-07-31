@@ -29,3 +29,4 @@ https://github.com/karpathy/llama2.c
 https://github.com/tvheadend/tvheadend
 https://github.com/floooh/sokol
 https://github.com/openssh/openssh-portable
+https://github.com/radareorg/radare2
