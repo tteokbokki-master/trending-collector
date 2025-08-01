@@ -98,3 +98,6 @@ https://github.com/SJTU-IPADS/PowerInfer
 https://github.com/ga2mer/MarathonRecomp
 https://github.com/M2Team/NanaZip
 https://github.com/danmar/cppcheck
+https://github.com/eclipse-sumo/sumo
+https://github.com/mysql/mysql-server
+https://github.com/vcmi/vcmi

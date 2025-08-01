@@ -30,3 +30,6 @@ https://github.com/tvheadend/tvheadend
 https://github.com/floooh/sokol
 https://github.com/openssh/openssh-portable
 https://github.com/radareorg/radare2
+https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course
+https://github.com/sipwise/rtpengine
+https://github.com/memcached/memcached
