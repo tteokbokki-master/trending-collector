@@ -33,3 +33,6 @@ https://github.com/radareorg/radare2
 https://github.com/CodeWithHarry/The-Ultimate-C-Programming-Course
 https://github.com/sipwise/rtpengine
 https://github.com/memcached/memcached
+https://github.com/BitMaker-hub/NerdMiner_v2
+https://github.com/TsudaKageyu/minhook
+https://github.com/TeraTermProject/teraterm

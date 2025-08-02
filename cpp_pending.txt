@@ -101,3 +101,6 @@ https://github.com/danmar/cppcheck
 https://github.com/eclipse-sumo/sumo
 https://github.com/mysql/mysql-server
 https://github.com/vcmi/vcmi
+https://github.com/google/longfellow-zk
+https://github.com/microsoft/AirSim
+https://github.com/paullouisageneau/libdatachannel
