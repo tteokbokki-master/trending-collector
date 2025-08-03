@@ -36,3 +36,4 @@ https://github.com/memcached/memcached
 https://github.com/BitMaker-hub/NerdMiner_v2
 https://github.com/TsudaKageyu/minhook
 https://github.com/TeraTermProject/teraterm
+https://github.com/libopencm3/libopencm3
