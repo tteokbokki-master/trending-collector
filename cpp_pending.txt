@@ -106,3 +106,6 @@ https://github.com/microsoft/AirSim
 https://github.com/paullouisageneau/libdatachannel
 https://github.com/audacity/audacity
 https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+https://github.com/duixcom/Duix-Mobile
+https://github.com/deepseek-ai/FlashMLA
+https://github.com/leejet/stable-diffusion.cpp

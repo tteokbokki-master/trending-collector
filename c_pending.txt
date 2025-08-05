@@ -39,3 +39,8 @@ https://github.com/TeraTermProject/teraterm
 https://github.com/libopencm3/libopencm3
 https://github.com/tsl0922/ttyd
 https://github.com/shellphish/how2heap
+https://github.com/TinyCC/tinycc
+https://github.com/utkarshdalal/GameNative
+https://github.com/OpenIPC/firmware
+https://github.com/libfuse/libfuse
+https://github.com/intel/xess
