@@ -109,3 +109,6 @@ https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
 https://github.com/duixcom/Duix-Mobile
 https://github.com/deepseek-ai/FlashMLA
 https://github.com/leejet/stable-diffusion.cpp
+https://github.com/cactus-compute/cactus
+https://github.com/usetrmnl/trmnl-firmware
+https://github.com/zeek/zeek
