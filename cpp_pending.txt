@@ -112,3 +112,9 @@ https://github.com/leejet/stable-diffusion.cpp
 https://github.com/cactus-compute/cactus
 https://github.com/usetrmnl/trmnl-firmware
 https://github.com/zeek/zeek
+https://github.com/flashinfer-ai/flashinfer
+https://github.com/abdularis/LAN-Share
+https://github.com/cp-algorithms/cp-algorithms
+https://github.com/weidai11/cryptopp
+https://github.com/drogonframework/drogon
+https://github.com/tnodir/fort
