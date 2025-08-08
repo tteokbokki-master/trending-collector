@@ -118,3 +118,5 @@ https://github.com/cp-algorithms/cp-algorithms
 https://github.com/weidai11/cryptopp
 https://github.com/drogonframework/drogon
 https://github.com/tnodir/fort
+https://github.com/jrouwe/JoltPhysics
+https://github.com/RobotLocomotion/drake

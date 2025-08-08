@@ -45,3 +45,4 @@ https://github.com/OpenIPC/firmware
 https://github.com/libfuse/libfuse
 https://github.com/intel/xess
 https://github.com/jart/cosmopolitan
+https://github.com/CANopenNode/CANopenNode
