@@ -120,3 +120,7 @@ https://github.com/drogonframework/drogon
 https://github.com/tnodir/fort
 https://github.com/jrouwe/JoltPhysics
 https://github.com/RobotLocomotion/drake
+https://github.com/taichi-dev/taichi
+https://github.com/ZDoom/gzdoom
+https://github.com/rathena/rathena
+https://github.com/CGAL/cgal
