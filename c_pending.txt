@@ -47,3 +47,5 @@ https://github.com/intel/xess
 https://github.com/jart/cosmopolitan
 https://github.com/CANopenNode/CANopenNode
 https://github.com/apache/age
+https://github.com/TEN-framework/ten-vad
+https://github.com/libsdl-org/SDL_image
