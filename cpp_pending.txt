@@ -125,3 +125,4 @@ https://github.com/ZDoom/gzdoom
 https://github.com/rathena/rathena
 https://github.com/CGAL/cgal
 https://github.com/mawww/kakoune
+https://github.com/bkaradzic/bgfx
