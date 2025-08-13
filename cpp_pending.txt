@@ -127,3 +127,6 @@ https://github.com/CGAL/cgal
 https://github.com/mawww/kakoune
 https://github.com/bkaradzic/bgfx
 https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
+https://github.com/mausimus/ShaderGlass
+https://github.com/introlab/rtabmap
+https://github.com/rpng/open_vins
