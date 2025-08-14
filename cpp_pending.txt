@@ -130,3 +130,4 @@ https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
 https://github.com/mausimus/ShaderGlass
 https://github.com/introlab/rtabmap
 https://github.com/rpng/open_vins
+https://github.com/valhalla/valhalla
