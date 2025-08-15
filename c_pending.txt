@@ -53,3 +53,5 @@ https://github.com/espeak-ng/espeak-ng
 https://github.com/armink/FlashDB
 https://github.com/Immediate-Mode-UI/Nuklear
 https://github.com/RubyMetric/chsrc
+https://github.com/tsoding/nob.h
+https://github.com/asg017/sqlite-vec

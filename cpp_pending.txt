@@ -131,3 +131,7 @@ https://github.com/mausimus/ShaderGlass
 https://github.com/introlab/rtabmap
 https://github.com/rpng/open_vins
 https://github.com/valhalla/valhalla
+https://github.com/Librum-Reader/Librum
+https://github.com/facebookresearch/habitat-sim
+https://github.com/unicode-org/icu
+https://github.com/Open-Cascade-SAS/OCCT
