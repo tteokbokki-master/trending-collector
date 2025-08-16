@@ -135,3 +135,6 @@ https://github.com/Librum-Reader/Librum
 https://github.com/facebookresearch/habitat-sim
 https://github.com/unicode-org/icu
 https://github.com/Open-Cascade-SAS/OCCT
+https://github.com/PanosK92/SpartanEngine
+https://github.com/capnproto/capnproto
+https://github.com/apache/kvrocks
