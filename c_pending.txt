@@ -57,3 +57,5 @@ https://github.com/tsoding/nob.h
 https://github.com/asg017/sqlite-vec
 https://github.com/libgit2/libgit2
 https://github.com/duixcom/Duix.Avatar
+https://github.com/google/security-research
+https://github.com/capstone-engine/capstone

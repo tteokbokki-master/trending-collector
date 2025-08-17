@@ -138,3 +138,6 @@ https://github.com/Open-Cascade-SAS/OCCT
 https://github.com/PanosK92/SpartanEngine
 https://github.com/capnproto/capnproto
 https://github.com/apache/kvrocks
+https://github.com/godotengine/godot-cpp
+https://github.com/gcc-mirror/gcc
+https://github.com/DS-Homebrew/TWiLightMenu
