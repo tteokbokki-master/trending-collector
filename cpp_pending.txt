@@ -141,3 +141,5 @@ https://github.com/apache/kvrocks
 https://github.com/godotengine/godot-cpp
 https://github.com/gcc-mirror/gcc
 https://github.com/DS-Homebrew/TWiLightMenu
+https://github.com/mltframework/shotcut
+https://github.com/ssloy/tinyrenderer

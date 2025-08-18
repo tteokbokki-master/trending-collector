@@ -59,3 +59,5 @@ https://github.com/libgit2/libgit2
 https://github.com/duixcom/Duix.Avatar
 https://github.com/google/security-research
 https://github.com/capstone-engine/capstone
+https://github.com/Dav1dde/glad
+https://github.com/ComposersDesktop/CDP8
