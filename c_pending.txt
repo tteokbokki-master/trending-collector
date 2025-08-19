@@ -61,3 +61,8 @@ https://github.com/google/security-research
 https://github.com/capstone-engine/capstone
 https://github.com/Dav1dde/glad
 https://github.com/ComposersDesktop/CDP8
+https://github.com/kolunmi/bazaar
+https://github.com/vedderb/bldc
+https://github.com/kamailio/kamailio
+https://github.com/apache/guacamole-server
+https://github.com/dekuNukem/daytripper
