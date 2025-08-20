@@ -143,3 +143,6 @@ https://github.com/gcc-mirror/gcc
 https://github.com/DS-Homebrew/TWiLightMenu
 https://github.com/mltframework/shotcut
 https://github.com/ssloy/tinyrenderer
+https://github.com/ROCm/rocm-systems
+https://github.com/ApolloAuto/apollo
+https://github.com/fxsound2/fxsound-app
