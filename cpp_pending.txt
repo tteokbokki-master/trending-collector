@@ -148,3 +148,5 @@ https://github.com/ApolloAuto/apollo
 https://github.com/fxsound2/fxsound-app
 https://github.com/microsoft/onnxruntime-genai
 https://github.com/facebook/hermes
+https://github.com/Detanup01/gbe_fork
+https://github.com/dalathegreat/Battery-Emulator

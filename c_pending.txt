@@ -68,3 +68,4 @@ https://github.com/apache/guacamole-server
 https://github.com/dekuNukem/daytripper
 https://github.com/ggreer/the_silver_searcher
 https://github.com/Adaptix-Framework/AdaptixC2
+https://github.com/sabrogden/Ditto
