@@ -70,3 +70,5 @@ https://github.com/ggreer/the_silver_searcher
 https://github.com/Adaptix-Framework/AdaptixC2
 https://github.com/sabrogden/Ditto
 https://github.com/raysan5/raygui
+https://github.com/FWGS/xash3d-fwgs
+https://github.com/vial-kb/vial-qmk

@@ -154,3 +154,4 @@ https://github.com/sonic-net/sonic-swss
 https://github.com/arvidn/libtorrent
 https://github.com/2swap/swaptube
 https://github.com/Ardour/ardour
+https://github.com/Maplespe/ExplorerBlurMica
