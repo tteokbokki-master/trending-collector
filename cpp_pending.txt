@@ -155,3 +155,8 @@ https://github.com/arvidn/libtorrent
 https://github.com/2swap/swaptube
 https://github.com/Ardour/ardour
 https://github.com/Maplespe/ExplorerBlurMica
+https://github.com/OpenNMT/CTranslate2
+https://github.com/ramensoftware/windhawk
+https://github.com/include-what-you-use/include-what-you-use
+https://github.com/AirenSoft/OvenMediaEngine
+https://github.com/cmu-db/bustub
