@@ -74,3 +74,5 @@ https://github.com/FWGS/xash3d-fwgs
 https://github.com/vial-kb/vial-qmk
 https://github.com/documentdb/documentdb
 https://github.com/AprilRobotics/apriltag
+https://github.com/winsiderss/systeminformer
+https://github.com/NVIDIA-RTX/Streamline
