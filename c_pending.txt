@@ -78,3 +78,4 @@ https://github.com/winsiderss/systeminformer
 https://github.com/NVIDIA-RTX/Streamline
 https://github.com/edk2-porting/edk2-rk3588
 https://github.com/antirez/sds
+https://github.com/chaosgoo/mcompass
