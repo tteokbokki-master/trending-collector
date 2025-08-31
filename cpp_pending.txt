@@ -168,3 +168,5 @@ https://github.com/leethomason/tinyxml2
 https://github.com/bpftrace/bpftrace
 https://github.com/ClemensElflein/OpenMower
 https://github.com/unitreerobotics/unitree_ros2
+https://github.com/kth-competitive-programming/kactl
+https://github.com/jellyfin/jellyfin-media-player
