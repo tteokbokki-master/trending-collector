@@ -170,3 +170,6 @@ https://github.com/ClemensElflein/OpenMower
 https://github.com/unitreerobotics/unitree_ros2
 https://github.com/kth-competitive-programming/kactl
 https://github.com/jellyfin/jellyfin-media-player
+https://github.com/underpig1/octos
+https://github.com/ggerganov/ggwave
+https://github.com/ITotalJustice/sphaira
