@@ -82,3 +82,5 @@ https://github.com/chaosgoo/mcompass
 https://github.com/pbatard/rufus
 https://github.com/nanovms/nanos
 https://github.com/nuta/operating-system-in-1000-lines
+https://github.com/liamelui/zomdroid
+https://github.com/skeeto/w64devkit
