@@ -174,3 +174,7 @@ https://github.com/underpig1/octos
 https://github.com/ggerganov/ggwave
 https://github.com/ITotalJustice/sphaira
 https://github.com/Stellarium/stellarium
+https://github.com/zeromq/libzmq
+https://github.com/dusty-nv/jetson-inference
+https://github.com/cyberbotics/webots
+https://github.com/CloudCompare/CloudCompare
