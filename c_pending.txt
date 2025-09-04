@@ -85,3 +85,4 @@ https://github.com/nuta/operating-system-in-1000-lines
 https://github.com/liamelui/zomdroid
 https://github.com/skeeto/w64devkit
 https://github.com/remzi-arpacidusseau/ostep-projects
+https://github.com/FalkorDB/FalkorDB
