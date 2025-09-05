@@ -179,3 +179,5 @@ https://github.com/dusty-nv/jetson-inference
 https://github.com/cyberbotics/webots
 https://github.com/CloudCompare/CloudCompare
 https://github.com/kuzudb/kuzu
+https://github.com/haoel/leetcode
+https://github.com/gem5/gem5
