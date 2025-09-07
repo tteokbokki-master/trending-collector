@@ -182,3 +182,6 @@ https://github.com/kuzudb/kuzu
 https://github.com/haoel/leetcode
 https://github.com/gem5/gem5
 https://github.com/duckdb/pg_duckdb
+https://github.com/AntiMicroX/antimicrox
+https://github.com/oatpp/oatpp
+https://github.com/MrNeRF/LichtFeld-Studio
