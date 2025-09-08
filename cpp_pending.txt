@@ -185,3 +185,4 @@ https://github.com/duckdb/pg_duckdb
 https://github.com/AntiMicroX/antimicrox
 https://github.com/oatpp/oatpp
 https://github.com/MrNeRF/LichtFeld-Studio
+https://github.com/b4rtaz/distributed-llama
