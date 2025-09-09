@@ -186,3 +186,6 @@ https://github.com/AntiMicroX/antimicrox
 https://github.com/oatpp/oatpp
 https://github.com/MrNeRF/LichtFeld-Studio
 https://github.com/b4rtaz/distributed-llama
+https://github.com/doxygen/doxygen
+https://github.com/gnuradio/gnuradio
+https://github.com/AcademySoftwareFoundation/openvdb
