@@ -90,3 +90,5 @@ https://github.com/0015/ThatProject
 https://github.com/TryQuiet/quiet
 https://github.com/izzyreal/vmpc-juce
 https://github.com/nanomsg/nng
+https://github.com/espressif/esp-adf
+https://github.com/osqzss/gps-sdr-sim
