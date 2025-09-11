@@ -190,3 +190,6 @@ https://github.com/doxygen/doxygen
 https://github.com/gnuradio/gnuradio
 https://github.com/AcademySoftwareFoundation/openvdb
 https://github.com/zaphoyd/websocketpp
+https://github.com/openthread/openthread
+https://github.com/ashtf8/PocketMage_PDA
+https://github.com/kokkos/kokkos

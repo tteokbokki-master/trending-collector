@@ -92,3 +92,7 @@ https://github.com/izzyreal/vmpc-juce
 https://github.com/nanomsg/nng
 https://github.com/espressif/esp-adf
 https://github.com/osqzss/gps-sdr-sim
+https://github.com/mpaland/printf
+https://github.com/remzi-arpacidusseau/ostep-code
+https://github.com/redis/hiredis
+https://github.com/hpjansson/chafa
