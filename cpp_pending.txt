@@ -193,3 +193,5 @@ https://github.com/zaphoyd/websocketpp
 https://github.com/openthread/openthread
 https://github.com/ashtf8/PocketMage_PDA
 https://github.com/kokkos/kokkos
+https://github.com/google-deepmind/mujoco
+https://github.com/argotorg/solidity

@@ -96,3 +96,6 @@ https://github.com/mpaland/printf
 https://github.com/remzi-arpacidusseau/ostep-code
 https://github.com/redis/hiredis
 https://github.com/hpjansson/chafa
+https://github.com/VirtualBox/virtualbox
+https://github.com/tinyproxy/tinyproxy
+https://github.com/orioledb/orioledb
