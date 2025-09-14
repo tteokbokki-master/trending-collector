@@ -196,3 +196,6 @@ https://github.com/kokkos/kokkos
 https://github.com/google-deepmind/mujoco
 https://github.com/argotorg/solidity
 https://github.com/zerotier/ZeroTierOne
+https://github.com/upx/upx
+https://github.com/Z3Prover/z3
+https://github.com/tdlib/telegram-bot-api
