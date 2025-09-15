@@ -199,3 +199,5 @@ https://github.com/zerotier/ZeroTierOne
 https://github.com/upx/upx
 https://github.com/Z3Prover/z3
 https://github.com/tdlib/telegram-bot-api
+https://github.com/mnh-jansson/open-battery-information
+https://github.com/skift-org/skift
