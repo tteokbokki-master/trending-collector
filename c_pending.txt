@@ -100,3 +100,5 @@ https://github.com/VirtualBox/virtualbox
 https://github.com/tinyproxy/tinyproxy
 https://github.com/orioledb/orioledb
 https://github.com/skyfloogle/red-viper
+https://github.com/RfidResearchGroup/ChameleonUltra
+https://github.com/enjoy-digital/litex
