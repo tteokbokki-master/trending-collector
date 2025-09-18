@@ -103,3 +103,5 @@ https://github.com/skyfloogle/red-viper
 https://github.com/RfidResearchGroup/ChameleonUltra
 https://github.com/enjoy-digital/litex
 https://github.com/neutrinolabs/xrdp
+https://github.com/MidnightCommander/mc
+https://github.com/libsndfile/libsndfile
