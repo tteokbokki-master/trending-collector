@@ -107,3 +107,4 @@ https://github.com/MidnightCommander/mc
 https://github.com/libsndfile/libsndfile
 https://github.com/netblue30/firejail
 https://github.com/espressif/esp-drone
+https://github.com/mpc-hc/mpc-hc
