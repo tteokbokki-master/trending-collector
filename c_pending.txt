@@ -111,3 +111,5 @@ https://github.com/mpc-hc/mpc-hc
 https://github.com/foobnix/LibreraReader
 https://github.com/ashvardanian/StringZilla
 https://github.com/zserge/jsmn
+https://github.com/risinek/esp32-wifi-penetration-tool
+https://github.com/palera1n/palera1n
