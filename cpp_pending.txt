@@ -210,3 +210,6 @@ https://github.com/citizenfx/fivem
 https://github.com/ArthurSonzogni/FTXUI
 https://github.com/rizinorg/cutter
 https://github.com/AutoHotkey/AutoHotkey
+https://github.com/scottbez1/smartknob
+https://github.com/wesnoth/wesnoth
+https://github.com/AztecProtocol/aztec-packages
