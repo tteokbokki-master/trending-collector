@@ -219,3 +219,5 @@ https://github.com/doctest/doctest
 https://github.com/ztxz16/fastllm
 https://github.com/google/draco
 https://github.com/Lymphatus/caesium-image-compressor
+https://github.com/brave/brave-core
+https://github.com/tranek/GASDocumentation
