@@ -118,3 +118,5 @@ https://github.com/libusb/hidapi
 https://github.com/rfjakob/earlyoom
 https://github.com/uber/h3
 https://github.com/mudita/MuditaOS
+https://github.com/tvlabs/edge264
+https://github.com/jkuhlmann/cgltf
