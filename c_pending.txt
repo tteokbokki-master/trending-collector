@@ -120,3 +120,5 @@ https://github.com/uber/h3
 https://github.com/mudita/MuditaOS
 https://github.com/tvlabs/edge264
 https://github.com/jkuhlmann/cgltf
+https://github.com/DanielSant0s/AthenaEnv
+https://github.com/benbjohnson/litestream
