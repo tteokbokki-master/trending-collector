@@ -122,3 +122,5 @@ https://github.com/tvlabs/edge264
 https://github.com/jkuhlmann/cgltf
 https://github.com/DanielSant0s/AthenaEnv
 https://github.com/benbjohnson/litestream
+https://github.com/SpacehuhnTech/esp8266_deauther
+https://github.com/koekeishiya/yabai
