@@ -225,3 +225,6 @@ https://github.com/tile-ai/tilelang
 https://github.com/frankarobotics/franka_ros2
 https://github.com/organicmaps/organicmaps
 https://github.com/f4exb/sdrangel
+https://github.com/mumble-voip/mumble
+https://github.com/raspberrypi/rpi-imager
+https://github.com/google-ai-edge/LiteRT-LM
