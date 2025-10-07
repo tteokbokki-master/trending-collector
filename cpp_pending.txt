@@ -228,3 +228,5 @@ https://github.com/f4exb/sdrangel
 https://github.com/mumble-voip/mumble
 https://github.com/raspberrypi/rpi-imager
 https://github.com/google-ai-edge/LiteRT-LM
+https://github.com/osquery/osquery
+https://github.com/trilinos/Trilinos
