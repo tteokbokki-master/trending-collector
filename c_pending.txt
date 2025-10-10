@@ -128,3 +128,5 @@ https://github.com/skuep/AIOC
 https://github.com/Cairo-Dock/cairo-dock-core
 https://github.com/landley/toybox
 https://github.com/pgbouncer/pgbouncer
+https://github.com/siduck/chadwm
+https://github.com/asterisk/asterisk
