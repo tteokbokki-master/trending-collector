@@ -230,3 +230,7 @@ https://github.com/raspberrypi/rpi-imager
 https://github.com/google-ai-edge/LiteRT-LM
 https://github.com/osquery/osquery
 https://github.com/trilinos/Trilinos
+https://github.com/ayoubfaouzi/al-khaser
+https://github.com/oceanbase/miniob
+https://github.com/mrousavy/nitro
+https://github.com/Byrom90/XeUnshackle
