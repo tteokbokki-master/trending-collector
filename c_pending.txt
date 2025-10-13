@@ -132,3 +132,5 @@ https://github.com/siduck/chadwm
 https://github.com/asterisk/asterisk
 https://github.com/strongtz/i915-sriov-dkms
 https://github.com/espressif/esp-iot-solution
+https://github.com/libimobiledevice/libimobiledevice
+https://github.com/davatorium/rofi
