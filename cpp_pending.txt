@@ -237,3 +237,5 @@ https://github.com/Byrom90/XeUnshackle
 https://github.com/ByteWelder/Tactility
 https://github.com/relativty/Relativty
 https://github.com/LibreSprite/LibreSprite
+https://github.com/TranslucentTB/TranslucentTB
+https://github.com/facebook/hhvm
