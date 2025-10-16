@@ -136,3 +136,4 @@ https://github.com/libimobiledevice/libimobiledevice
 https://github.com/davatorium/rofi
 https://github.com/gojue/ecapture
 https://github.com/jetkvm/kvm
+https://github.com/PCRE2Project/pcre2
