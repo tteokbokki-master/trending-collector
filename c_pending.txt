@@ -139,3 +139,6 @@ https://github.com/jetkvm/kvm
 https://github.com/PCRE2Project/pcre2
 https://github.com/ArtifexSoftware/mupdf
 https://github.com/duixcom/Duix-Avatar
+https://github.com/DreamMaoMao/mangowc
+https://github.com/MrGlockenspiel/activate-linux
+https://github.com/yarrick/iodine
