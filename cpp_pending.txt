@@ -240,3 +240,4 @@ https://github.com/LibreSprite/LibreSprite
 https://github.com/TranslucentTB/TranslucentTB
 https://github.com/facebook/hhvm
 https://github.com/XRPLF/rippled
+https://github.com/kcat/openal-soft
