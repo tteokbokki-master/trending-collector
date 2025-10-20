@@ -142,3 +142,4 @@ https://github.com/duixcom/Duix-Avatar
 https://github.com/DreamMaoMao/mangowc
 https://github.com/MrGlockenspiel/activate-linux
 https://github.com/yarrick/iodine
+https://github.com/johnfanv2/LenovoLegionLinux
