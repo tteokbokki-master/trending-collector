@@ -246,3 +246,5 @@ https://github.com/PancakeTAS/lsfg-vk
 https://github.com/moudey/Shell
 https://github.com/supertuxkart/stk-code
 https://github.com/momo5502/sogen
+https://github.com/scylladb/seastar
+https://github.com/fritzing/fritzing-app
