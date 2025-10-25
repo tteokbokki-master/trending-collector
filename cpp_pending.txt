@@ -248,3 +248,5 @@ https://github.com/supertuxkart/stk-code
 https://github.com/momo5502/sogen
 https://github.com/scylladb/seastar
 https://github.com/fritzing/fritzing-app
+https://github.com/GaijinEntertainment/DagorEngine
+https://github.com/futo-org/android-keyboard
