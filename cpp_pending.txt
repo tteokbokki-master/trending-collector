@@ -250,3 +250,5 @@ https://github.com/scylladb/seastar
 https://github.com/fritzing/fritzing-app
 https://github.com/GaijinEntertainment/DagorEngine
 https://github.com/futo-org/android-keyboard
+https://github.com/zcash/zcash
+https://github.com/SteamClientHomebrew/Millennium
