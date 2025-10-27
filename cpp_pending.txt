@@ -252,3 +252,5 @@ https://github.com/GaijinEntertainment/DagorEngine
 https://github.com/futo-org/android-keyboard
 https://github.com/zcash/zcash
 https://github.com/SteamClientHomebrew/Millennium
+https://github.com/ange-yaghi/engine-sim
+https://github.com/sz3/libcimbar
