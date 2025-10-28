@@ -254,3 +254,6 @@ https://github.com/zcash/zcash
 https://github.com/SteamClientHomebrew/Millennium
 https://github.com/ange-yaghi/engine-sim
 https://github.com/sz3/libcimbar
+https://github.com/mfem/mfem
+https://github.com/sz3/cfc
+https://github.com/sqlitebrowser/sqlitebrowser
