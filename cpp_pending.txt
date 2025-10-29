@@ -257,3 +257,6 @@ https://github.com/sz3/libcimbar
 https://github.com/mfem/mfem
 https://github.com/sz3/cfc
 https://github.com/sqlitebrowser/sqlitebrowser
+https://github.com/RPCSX/rpcsx
+https://github.com/lammps/lammps
+https://github.com/odriverobotics/ODrive
