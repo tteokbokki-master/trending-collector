@@ -260,3 +260,5 @@ https://github.com/sqlitebrowser/sqlitebrowser
 https://github.com/RPCSX/rpcsx
 https://github.com/lammps/lammps
 https://github.com/odriverobotics/ODrive
+https://github.com/mozilla-ai/llamafile
+https://github.com/Redot-Engine/redot-engine
